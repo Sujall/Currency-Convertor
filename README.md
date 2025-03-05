@@ -139,8 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@currencyconverter.com or visit our [support page](https://currencyconverter.com/support).
-
+For support, email sujaly1104@gmail.com
 ---
 
 Built with ❤️ using React Native and Expo
