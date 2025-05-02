@@ -2,8 +2,6 @@ Currency Converter App
 
 A modern, feature-rich currency converter application built with React Native and Expo. Convert currencies from around the world, get real-time exchange rates, and access AI-powered help whenever you need it.
 
-![Currency Converter App](https://images.unsplash.com/photo-1580519542036-c47de6196ba5?auto=format&fit=crop&q=80&w=2400)
-
 Features
 
 💱 Currency Conversion
